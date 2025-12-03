@@ -1,1 +1,3 @@
-# first_project
+# My First Project
+
+Тестовый репозиторий для работы с GitHub
